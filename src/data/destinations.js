@@ -1,9 +1,9 @@
-// Data demo/prototype dibuat untuk simulasi konsep, bukan hasil riset lapangan real-time.
-import bandungImage from '../../Gambar/Gambar/Bandung.jpg'
-import yogyakartaImage from '../../Gambar/Gambar/Yogyakarta.jpg'
-import jakartaImage from '../../Gambar/Gambar/Jakarta - Monas.jpg'
-import semarangImage from '../../Gambar/Gambar/Semarang - Lawang Sewu.jpg'
-import surabayaImage from '../../Gambar/Gambar/Surabaya - Old Bank.jpg'
+// Demo/prototype data created for concept simulation, not based on real-time field research.
+import bandungImage from '../../images/bandung.jpg'
+import yogyakartaImage from '../../images/yogyakarta.jpg'
+import jakartaImage from '../../images/jakarta-monas.jpg'
+import semarangImage from '../../images/semarang-lawang-sewu.jpg'
+import surabayaImage from '../../images/surabaya-old-bank.jpg'
 
 export const destinations = [
   {
